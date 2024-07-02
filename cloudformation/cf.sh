@@ -1,0 +1,2 @@
+aws --endpoint http://localhost:4566  cloudformation deploy --stack-name infra-s3-sqs-sns --template-file "infra-s3-sqs-sns.yml"
+aws --endpoint http://localhost:4566  localstack cloudformation delete-stack --stack-name infra-s3-sqs-sns
