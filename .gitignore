@@ -1,7 +1,7 @@
 # LocalStack
 .localstack/
 localstack-data/
-
+localstack-data/volume/
 # Terraform
 **/.terraform/*
 *.tfstate
@@ -62,3 +62,5 @@ __pycache__/
 *.tmp
 *.temp
 .cache/ 
+
+volume/
