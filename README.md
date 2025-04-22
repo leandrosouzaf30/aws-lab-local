@@ -31,7 +31,7 @@ cd [NOME_DO_DIRETÓRIO]
 2. Configure o LocalStack Cloud - https://app.localstack.cloud/getting-started:
 ```bash
 # Configure seu token de autenticação pessoal
-export LOCALSTACK_AUTH_TOKEN="SEU TOCKER"
+export LOCALSTACK_AUTH_TOKEN="SEU TOCKEN"
 
 # Configure as variáveis de ambiente para teste
 export AWS_ACCESS_KEY_ID="test"
