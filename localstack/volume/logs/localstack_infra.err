@@ -38,3 +38,5 @@
 2025-04-22T00:31:50.512  INFO --- [   asgi_gw_1] localstack.request.http    : OPTIONS /_localstack/health => 204
 2025-04-22T00:31:50.547  INFO --- [   asgi_gw_0] localstack.request.http    : GET /_localstack/health => 200
 2025-04-22T00:31:52.790  INFO --- [   asgi_gw_1] localstack.request.http    : GET /_localstack/health => 200
+2025-04-22T00:34:22.999  INFO --- [   asgi_gw_1] localstack.request.http    : OPTIONS /_localstack/health => 204
+2025-04-22T00:34:23.027  INFO --- [   asgi_gw_0] localstack.request.http    : GET /_localstack/health => 200
